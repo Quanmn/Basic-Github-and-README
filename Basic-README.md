@@ -1,5 +1,11 @@
-**KÍCH CỠ CHỮ**
+☁ **KÍCH CỠ CHỮ**
 - Nó tương thẻ h1, h2 trong `html`
 # Đây là tiêu đề
 ## Đây là mục 1
 ### Đây là mục 1.1
+
+☁ **Tạo list**
+Dùng – (dấu trừ) hoặc dấu + (cộng) hoặc * (dấu sao) để tạo ra list có dấu chấm đầu dòng. Trong trường hợp muốn tạo thêm lớp level thấp hơn thì thêm 2 khoảng trắng vào nữa.
+– Dòng 1
+  – Dòng 2
+   – Dòng 3
