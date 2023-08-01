@@ -6,6 +6,6 @@
 
 ☁ **Tạo list**
 Dùng – (dấu trừ) hoặc dấu + (cộng) hoặc * (dấu sao) để tạo ra list có dấu chấm đầu dòng. Trong trường hợp muốn tạo thêm lớp level thấp hơn thì thêm 2 khoảng trắng vào nữa.
-– Dòng 1
--  Dòng 2
-–   Dòng 3
+- Line 1
+  - Line 2.1
+  - Line 2.2
